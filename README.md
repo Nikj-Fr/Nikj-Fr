@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Nikj-Fr/Nikj-Fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikj-Fr&hide=prs&theme=dark)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikj-Fr&show_icons=true&theme=dark&hide=prs) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikj-Fr&layout=compact&theme=dark&hide=css,html)
+|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+
+- 👋 Hi, I’m @Nikj-Fr. I'm an Infosec student working for Naval-Group.
+- 👀 I’m interested in low level stuff/windows driver/digital forensic/blockchain
+- 🌱 I’m currently learning solidity and rust.
+- 📫 How to reach me twitter:@NikjFr
