@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 |-----------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 
 - 👋 Hi, I’m @Nikj-Fr. I'm an Infosec student working for Naval-Group.
-- 👀 I’m interested in low level stuff/windows driver/digital forensic/blockchain
+- 👀 I’m interested in low level stuff/windows driver/malware analysis/digital forensic/blockchain
 - 🌱 I’m currently learning solidity and rust.
 - 📫 How to reach me twitter:@NikjFr
