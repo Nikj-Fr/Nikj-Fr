@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikj-Fr&show_icons=true&theme=dark&hide=prs) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikj-Fr&layout=compact&theme=dark&hide=css,html)
 |-----------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 
-- 👋 Hi, I’m @Nikj-Fr. I'm an Infosec student working for Naval-Group.
+- 👋 Hi, I’m @Nikj-Fr.
 - 👀 I’m interested in low level stuff/windows driver/malware analysis/digital forensic/blockchain
 - 🌱 I’m currently learning solidity and rust.
 - 📫 How to reach me twitter:@NikjFr
